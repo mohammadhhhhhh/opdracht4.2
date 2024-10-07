@@ -1,0 +1,124 @@
+h1 {
+    font: size 24px; 
+    font-style: italic;
+    font-weight: 100;
+    color: blue;
+}
+
+
+
+h2{
+font-size: 20px;
+color: blue;
+font-weight: bold;
+
+
+
+
+
+}
+
+
+
+
+
+img{
+
+width: 50vw;
+
+}
+
+
+
+h3{
+font-size: 16px;
+color: teal;
+font-weight: bolder;
+
+
+
+
+}
+
+
+
+
+
+p{
+
+color: gray;
+
+
+
+}
+
+
+p:first-of-type {
+    font-weight: bold;
+}
+
+
+
+
+a{
+color: blueviolet;
+text-decoration: none;
+
+
+}   
+
+
+
+header {
+    background-image: url('img/rs6.jpeg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    height: 300px; 
+}
+
+header h1, header p {
+    color: blue;
+    
+}
+
+
+
+
+
+
+
+
+article{
+    border: 2px solid crimson;
+    border: left 6px solid crimson;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px 0;
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
